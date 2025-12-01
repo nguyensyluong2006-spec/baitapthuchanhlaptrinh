@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 # Bài 7: Kiểm tra chuỗi có phải là số và in ra
 chuoi = input('Nhập chuỗi: ')
 if chuoi.isdigit():  # Kiểm tra nếu chuỗi chỉ chứa số
