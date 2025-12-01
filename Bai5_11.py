@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 import numpy as np
 
 data_type = [('name', 'S15'), ('class', int), ('height', float)]
