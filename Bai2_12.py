@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("#############################")
+######################################
 import re
 def kiem_tra_mat_khau(password):
     if len(password) < 6 or len(password) > 12:
