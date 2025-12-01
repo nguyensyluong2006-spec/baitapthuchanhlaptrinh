@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 def tinh_tien_ngan_hang():
     print("Nhập nhật ký giao dịch (D cho gửi, W cho rút). Nhập 'done' để kết thúc:")
     tong_tien = 0
