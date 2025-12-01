@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 def kiem_tra_chia_het_5():
     nhap = input("Nhập các số nhị phân 4 chữ số cách nhau bởi dấu phẩy: ")
     so_nhi_phan = nhap.split(',')
