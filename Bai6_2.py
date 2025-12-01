@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 class Hinhchunhat:
     def __init__(self, dai, rong):
         self.chieu_dai = dai
