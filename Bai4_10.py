@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 # Bài 10: Cắt list - lấy list nhưng bỏ phần tử đầu và cuối
 ds = input('Nhập danh sách (các phần tử cách nhau bởi space/tab): ').split()
 
