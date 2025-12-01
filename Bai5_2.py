@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 import datetime as dt
 
 format_str = '%Y-%m-%dT%H:%M:%S'
