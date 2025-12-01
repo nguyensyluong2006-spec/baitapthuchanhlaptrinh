@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("#############################")
+######################################
 # Chương trình máy tính thực hiện các phép tính đơn giản
 # Program make a simple calculator that can add, subtract, multiply and divide using functions
 
