@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("#############################")
+######################################
 s = input("Nhap chuoi: ")
 words = s.split()
 print("Sau khi split:", words)
