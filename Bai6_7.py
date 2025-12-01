@@ -1,5 +1,9 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("############################")
+#####################################
 class StringProcessor:
-    def __init__(self):
+    def __init__(self): 
         self.input_string = ""
     
     def get_String(self):
