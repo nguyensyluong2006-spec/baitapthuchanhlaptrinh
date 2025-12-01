@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 # Bài 14: Sắp xếp các phần tử trong list
 ds = ['banana', 'apple', 'cherry', 'date', '123', 'ABC', 'abc']
 
