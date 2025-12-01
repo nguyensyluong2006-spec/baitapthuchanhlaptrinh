@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("#############################")
+######################################
 import math;
 x1=int(input("Enter x1:"))
 y1=int(input("Enter y1:"))
