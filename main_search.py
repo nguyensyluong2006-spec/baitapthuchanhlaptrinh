@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 import search_module
 
 n = int(input("Nhập số lượng phần tử: "))
