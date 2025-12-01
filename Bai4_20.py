@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 # Bài 20: In n dòng đầu tiên của tam giác Pascal
 def bai_20():
     try:
