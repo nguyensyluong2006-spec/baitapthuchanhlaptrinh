@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 class ReverseWords:
     def reverse_string(self, s):
         words = s.split()
