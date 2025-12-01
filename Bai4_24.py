@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 def dem_chu_hoa_thuong():
     cau = input("Nhập một câu: ")
     chu_hoa = 0
