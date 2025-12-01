@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 import bubble_sort_module
 
 n = int(input("Nhập số lượng phần tử: "))
