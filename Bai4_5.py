@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 # Bài 5: In danh sách theo thứ tự ngược với thứ tự nhập
 danh_sach = input('Nhập danh sách các từ: ').split()
 # In theo thứ tự ngược
