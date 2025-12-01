@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 import find_min_max
 
 n = int(input("Nhập số lượng phần tử: "))
