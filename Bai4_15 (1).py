@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 def sap_xep_tu():
     nhap = input("Nhập các từ tiếng Anh cách nhau bởi dấu cách: ")
     tu_list = nhap.split()
