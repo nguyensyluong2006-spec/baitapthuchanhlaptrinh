@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("#############################")
+######################################
 a=int(input("enter a:"))
 b=int(input("enter b:"))
 print("Reciprocal values in range (a,b):")
