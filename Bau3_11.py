@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 def benefit(t, n, k):
     """
     Tính số tiền nhận được sau k tháng gửi tiết kiệm
