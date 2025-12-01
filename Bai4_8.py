@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 # Bài 8: Tìm từ dài nhất trong chuỗi nhập
 chuoi = input('Nhập chuỗi các từ: ').split()
 if chuoi:
