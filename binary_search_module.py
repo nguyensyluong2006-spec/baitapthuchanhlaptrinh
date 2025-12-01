@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 def binary_search(arr, value):
     arr_sorted = sorted(arr)
     lower_bound = 0
