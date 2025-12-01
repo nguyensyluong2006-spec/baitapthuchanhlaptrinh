@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 def loc_so_le():
     nhap = input("Nhập các số cách nhau bằng dấu phẩy: ")
     danh_sach = nhap.split(',')
