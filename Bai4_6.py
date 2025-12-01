@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 # Bài 6: Nhập họ tên và tách họ, tên riêng
 ho_ten = input('Nhập họ tên: ').split()
 if len(ho_ten) >= 2:
