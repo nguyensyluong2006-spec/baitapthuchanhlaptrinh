@@ -1,3 +1,7 @@
+print("nguyễn sỹ lương")
+print("245752021610139")
+print("##############################")
+#######################################
 # Bài 2: Chỉ in ra những ký tự không phải space và tab
 S = input('Nhập chuỗi: ')
 for ky_tu in S:
